@@ -2,4 +2,4 @@
 This repository is a compilation of well-written code re-creating my favorite technologies from scratch
 
 ## Projects:
-1. A Neural Network From Scratch
+1_A_Neural_Network_From_Scratch.ipynb
